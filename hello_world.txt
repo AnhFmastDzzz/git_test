@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    yomomCool(a); //The typing experience on this new machine is so goood lol!!!!!!!!!!!
+}
